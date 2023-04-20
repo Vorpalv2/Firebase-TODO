@@ -39,8 +39,9 @@ button {
     font-family: 'Rubik', sans-serif;
 }
 
-#cat-image{
-    width: 150px;
-    margin: 0 auto;
-
+#image{
+    
+    margin: 15px auto;
+    max-height: 200px;
+    max-width: 200px;
     }
